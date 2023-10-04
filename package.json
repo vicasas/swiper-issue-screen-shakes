@@ -1,5 +1,5 @@
 {
-  "name": "issue-screen-shakes-on-mobile-using-nextjs",
+  "name": "swiper-issue-screen-shakes",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,8 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
-    "next": "13.5.4"
+    "swiper": "^10.3.1"
   }
 }
